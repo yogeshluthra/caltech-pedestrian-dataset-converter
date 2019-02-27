@@ -57,9 +57,9 @@ $ python tests/test_plot_annotations.py
 		"str": 1,  
 		"end": 759,  
 		"hide": 0,  
-		"init": 1},  
-		]  
+		"init": 1},    
 ```
+        ]
 
 # Notes:
   - `pos`, `posv` and `occl`  
