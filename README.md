@@ -36,7 +36,7 @@ $ python tests/test_plot_annotations.py
     - altered: integer
     - frames: dict<frame_id (string), list(dict)>
         - e.g. "186": [
-
+```
 		{"id": 24,  
 		"pos": [0.5, 203.49978594529648, 17.252551400712175, 54.99802446911718],  
 		"occl": 1,  
@@ -59,7 +59,7 @@ $ python tests/test_plot_annotations.py
 		"hide": 0,  
 		"init": 1},  
 		]  
-
+```
 
 # Notes:
   - `pos`, `posv` and `occl`  
